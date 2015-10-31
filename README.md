@@ -1,2 +1,2 @@
-# wayangprogressbar
-The Wayang Progress Bar
+# the-lightbox-effect
+The Lightbox Effect
