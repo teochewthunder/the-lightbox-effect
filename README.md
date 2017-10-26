@@ -6,7 +6,7 @@ This is a HTML/CSS/JavaScript implementation of the famous Lightbox.
 Basically a nested div.
 
 ## CSS
-The outer div fills up the entire screen, is positioned *absolute* and has a translucent grey background. The inner div is a placehlder for the content.
+The outer div fills up the entire screen, is positioned *absolute* and has a translucent grey background. The inner div is a placeholder for the content.
 
 ## JavaScript
 This contains a few parts.
@@ -15,4 +15,4 @@ This contains a few parts.
 - a function to close the outer div.
 
 ## Special Effects (optional)
-Mostly CSS3 transitions to open aand close the Lightbox slowly.
+Mostly CSS3 transitions to open and close the Lightbox slowly.
